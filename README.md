@@ -1,4 +1,4 @@
-# <h1 align="center">BinarySearch</h1>
+<h1 align="center">BinarySearch</h1>
 
 ## Funcionamento
 <p>Dado um determinado array ordenado e informando números a serem colocados nesse array, o algoritmo informa em qual posição do array tal número deve ser inserido</p>
